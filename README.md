@@ -8,7 +8,6 @@ Discord Rich Presence DLL for Rabbids Go Home PC Port.
 
 ## Requirements
 * Discord RPC SDK (discord-rpc)
-* Visual Studio 2022
 * Windows PC
 
 ## Building
